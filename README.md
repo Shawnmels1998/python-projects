@@ -1,6 +1,6 @@
 # Beginner python-projects
 
-This repository contains beginner-level Python projects. These projects are designed to help individuals learn basic programming concepts and develop a foundational understanding of Python.
+This repository contains beginner-level Python projects from [FreeCodeCamp](https://www.youtube.com/watch?v=pdy3nh1tn6I&t=4448s). These projects are designed to help individuals learn basic programming concepts and develop a foundational understanding of Python.
 
 ## Getting Started
 
